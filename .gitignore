@@ -1,0 +1,11 @@
+*.py[cod]
+*.log
+*.bak.*
+*.bak
+*.tmp.*
+.python-version
+.DS_Store
+*.idea*
+.cache
+.settings
+.project
