@@ -1,0 +1,1 @@
+url = 'https://mobile-dl.sp.f-secure.com/corporate/'
